@@ -1,4 +1,9 @@
-### Welcome to my GitHub!
+### Welcome to my GitHub! 
+Here you can see some of my projects as a beginner developer.
+
+I am constantly learning to improve my knowledge, obtain solid programming foundations, good practices, and clean code. I like minimalism and organization, management is something intrinsic to me.
+
+I dream of being part of a project with which to generate impact towards a sustainable world.
 
 #### Technologies and tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow) 
