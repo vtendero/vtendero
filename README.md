@@ -1,11 +1,12 @@
-### Welcome to my GitHub! 
-Here you can see some of my projects as a beginner developer.
+<samp>
+Welcome to my GitHub! Here you can see some of my projects as a beginner developer.
 
 I'm always trying to improve my skills, obtain solid programming foundations, best practices and writing clean code. I like minimalism and keeping things simple.
 
 One of my goals is to work for a project that leads the way towards a sustainable world.
 
 Dark theme lover :black_heart:
+</samp>
 
 ### Technologies and tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow) 
