@@ -1,11 +1,11 @@
 ### Welcome to my GitHub! 
 Here you can see some of my projects as a beginner developer.
 
-I am constantly learning to improve my knowledge, obtain solid programming foundations, good practices, and clean code. I like minimalism and organization, management is something intrinsic to me. 
+I'm always trying to improve my skills, obtain solid programming foundations, best practices and writing clean code. I like minimalism and keeping things simple.
 
-I dream of being part of a project with which to generate impact towards a sustainable world.
+One of my goals is to work for a project that leads the way towards a sustainable world.
 
-Dark mode ever  :black_heart:
+Dark theme lover :black_heart:
 
 ### Technologies and tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow) 
