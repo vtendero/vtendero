@@ -8,7 +8,7 @@ One of my goals is to work for a project that leads the way towards a sustainabl
 Dark theme lover :black_heart:
 </samp>
 
-### Technologies and tools:
+### Technology stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow) 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![html5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5) 
