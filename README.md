@@ -31,4 +31,4 @@ Dark theme lover :black_heart:
 ![JIRA](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira-software&logoColor=blue)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=blue)
 
-![](https://github.com/vtendero/vtendero/blob/images/we-solution.JPG)
+![](https://github.com/vtendero/vtendero/images/we-solution.JPG)
